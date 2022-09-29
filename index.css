@@ -1,0 +1,23 @@
+#test1{
+    background-color: yellow;
+    color: brown;
+    /* font-style: italic; */
+    font-weight: bold;
+}
+
+#test{
+    background-color: yellow;
+    color: brown;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+ol, ul, p{
+    color: brown;
+}
+#test3{
+    text-decoration: underline;
+    font-style: italic;
+}
+#external-li{
+    letter-spacing: 6px;
+}
